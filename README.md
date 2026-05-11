@@ -1,22 +1,21 @@
 <div align="center">
 
 ```
-███████╗██╗  ██╗██╗██╗   ██╗ █████╗ ███╗   ███╗
-██╔════╝██║  ██║██║██║   ██║██╔══██╗████╗ ████║
-███████╗███████║██║██║   ██║███████║██╔████╔██║
-╚════██║██╔══██║██║╚██╗ ██╔╝██╔══██║██║╚██╔╝██║
-███████║██║  ██║██║ ╚████╔╝ ██║  ██║██║ ╚═╝ ██║
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝  ╚═╝  ╚═╝╚═╝     ╚═╝
+ ____  _     _                     __   __          _
+/ ___|| |__ (_)_   ____ _ _ __ _   \ \ / /_ _  __| | __ ___   __
+\___ \| '_ \| \ \ / / _` | '_ ` _ \  \ V / _` |/ _` |/ _` \ \ / /
+ ___) | | | | |\ V / (_| | | | | | |  | | (_| | (_| | (_| |\ V /
+|____/|_| |_|_| \_/ \__,_|_| |_| |_|  |_|\__,_|\__,_|\__,_| \_/
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=39D353&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Backend+Engineer+%7C+Distributed+Systems;Building+scalable+event-driven+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=39D353&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Shivam+Yadav+%7C+Backend+Engineer;Building+scalable+event-driven+systems)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Shivam-1827&style=for-the-badge&color=39d353&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile Views"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR-LEETCODE)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR-CF)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/YOUR-GFG)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-yadav-18278652s/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Shivam_1827/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/shivam_1886_)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/shiva1znhc)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivam018860@gmail.com)
 
 </div>
@@ -79,7 +78,7 @@ func main() {
 ### 🟠 Software Developer Intern — Symphony Fintech Solutions `May 2025 – Jul 2025 · Mumbai`
 > `C++ · C# · RabbitMQ`
 
-- Built **C++ TCP server** using non-blocking I/O (`epoll`) — sustained **10,000+ concurrent connections** at sub-ms latency in load tests
+- Built **C++ TCP server** using non-blocking I/O (`epoll`) — sustained low-latency request handling under **10,000+ concurrent connections**
 - Integrated RabbitMQ message queue + heartbeat monitoring for connection liveness detection
 
 ---
@@ -97,7 +96,7 @@ func main() {
 
 > `Go (Gin) · C++17 · Redis · PostgreSQL · Prometheus · Docker`
 
-**What it does:** Run, visualize, and benchmark CPU scheduling algorithms in a distributed environment — built for real comparison, not simulation.
+**What it does:** Distributed platform for benchmarking and visualizing CPU scheduling algorithms in real environments — not simulation.
 
 **Architecture highlights:**
 - Scheduler core in C++17 with **SMP work-stealing** — idle cores pull tasks from busy cores' queues
@@ -124,7 +123,7 @@ func main() {
 
 > `Go (Chi) · C++ (librdkafka) · Kafka · PostgreSQL · Redis · Docker`
 
-**What it does:** An event-driven payment processing system built around correctness guarantees — exactly-once semantics, idempotent handlers, and ACID-compliant ledger.
+**What it does:** An event-driven payment processing system built around correctness — idempotent handlers, transactional event publishing, and an ACID-compliant ledger.
 
 **Architecture highlights:**
 - Kafka partitioned by `account_id` — ordered processing per account, parallel across accounts
@@ -134,7 +133,7 @@ func main() {
 - **Distributed lock** via Redis prevents double-spend under concurrent requests
 
 **Design patterns applied:**
-`Idempotency` · `Outbox Pattern` · `Event Sourcing` · `Retry + Dead-Letter Queue` · `Distributed Locking`
+`Idempotent Processing` · `Outbox Pattern` · `Event Sourcing` · `Retry + Dead-Letter Queue` · `Distributed Locking`
 
 </details>
 
@@ -147,13 +146,13 @@ func main() {
 
 > `Node.js · PostgreSQL · Pinecone · Traefik · RabbitMQ · Redis · Docker · WebSocket`
 
-**What it does:** A workplace knowledge platform — ingest audio/video/docs, transcribe, embed, and query semantically in real time.
+**What it does:** A workplace knowledge platform — uploads trigger asynchronous ingestion jobs for transcription, embedding, and semantic retrieval in real time.
 
 **Architecture highlights:**
-- Async ingestion via **RabbitMQ** — upload triggers a job, transcription + embedding happen out-of-band
+- **RabbitMQ** buffers ingestion load spikes via backpressure — no dropped requests under burst traffic
 - **Pinecone** vector store for semantic search; Redis caches hot query embeddings
 - WebSocket layer pushes indexing progress and search results to clients in real time
-- **Backpressure via queue** buffers ingestion spikes without dropping requests
+- **Traefik** reverse proxy handles routing across microservices
 
 **Results (internal test corpus, ~500 docs):**
 - Reduced zero-result queries from ~22% → ~11% after query-expansion step
@@ -170,7 +169,7 @@ func main() {
 | Pattern | Where Applied |
 |---|---|
 | **Work-Stealing (SMP)** | SchedulrX — idle cores pull from busy queues |
-| **Exactly-Once Semantics** | Payment Engine — idempotency keys + Kafka offset commits |
+| **Idempotent Processing** | Payment Engine — idempotency keys + Kafka offset commits |
 | **Outbox Pattern** | Payment Engine — transactional event publishing |
 | **Retry + Dead-Letter Queue** | Payment Engine — exponential backoff for failed events |
 | **Cache-Aside** | StayAccom — Redis layer over Elasticsearch |
@@ -222,7 +221,7 @@ func main() {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivam-1827&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=e6edf3&ring_color=39d353&count_private=true" alt="Shivam's GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivam-1827&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=e6edf3&ring_color=39d353&count_private=true" alt="Shivam Yadav's GitHub Stats"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-1827&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=e6edf3&langs_count=8" alt="Top Languages"/>
 
@@ -267,11 +266,11 @@ func main() {
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════╗
-║  Open to full-time Backend / Systems / Platform roles║
-║  📧  shivam018860@gmail.com                          ║
-║  📍  Mumbai / Pune, Maharashtra                      ║
-╚══════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════╗
+║  Shivam Yadav — Open to Backend / Systems / Platform     ║
+║  📧  shivam018860@gmail.com                              ║
+║  📍  Mumbai / Pune, Maharashtra                          ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
 *"Make it work. Make it right. Make it fast."*
