@@ -66,7 +66,7 @@ func main() {
 
 ---
 
-### 🔵 Software Engineer Intern (Backend) — StayAccom `Aug 2025 – Dec 2025 · Remote`
+### 🔵 Software Engineer (Backend) — StayAccom `Aug 2025 – Dec 2025 · Remote`
 > `Node.js · Docker · Redis · MongoDB · Elasticsearch · AWS`
 
 - Engineered **distributed backend** for hotel booking: integrated pricing engine, booking orchestration, and payment workflows
@@ -221,7 +221,7 @@ func main() {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivam-1827&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=e6edf3&ring_color=39d353&count_private=true" alt="Shivam Yadav's GitHub Stats"/>
+[<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivam-1827&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=e6edf3&ring_color=39d353&count_private=true" alt="Shivam Yadav's GitHub Stats"/>](https://github-readme-stats.vercel.app/api?username=Shivam-1827)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-1827&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=e6edf3&langs_count=8" alt="Top Languages"/>
 
